@@ -6118,46 +6118,7 @@
                 "Burn": 10,
                 "BurnTime": 2,
                 "Cooldown": 2.5
-            },
-	    {
-   		 "Bear5": {
-    		    "Type": "Single",
-     		   "Image": "rbxassetid://16620053009",
-      		  "Rarity": "Secret",
-     		   "PlacePrice": 13000,
-      		  "Max": 3,
-        	"Offset": 0.3,
-        	"hitboxOffset": {
-         	   "X": 0,
-           	 "Y": 0,
-          	  "Z": 0
-     	   },
-       			 "Upgrades": [
-         	   {
-              		  "Price": 0,
-               		 "Range": 10,
-               		 "Damage": 20,
-               		 "Cooldown": 1
-          	  },
-          	  {
-              		  "Price": 500,
-              		  "Range": 12,
-              		  "Damage": 25,
-              		  "Cooldown": 1
-          	  },
-          	  {
-                		"Price": 750,
-              		  "Range": 14,
-              		  "Damage": 30,
-              		  "Cooldown": 1
-          	  },
-           	 {
-               		 "Price": 1250,
-               		 "Range": 15,
-                	"Damage": 30,
-               		 "Cooldown": 0.75
             }
-        ]
         ]
     }
 }
