@@ -6120,12 +6120,12 @@
                 "Cooldown": 2.5
             },
 	    {
-   		 "Freddy": {
+   		 "Bear5": {
     		    "Type": "Single",
      		   "Image": "rbxassetid://16620053009",
-      		  "Rarity": "Uncommon",
-     		   "PlacePrice": 300,
-      		  "Max": 8,
+      		  "Rarity": "Secret",
+     		   "PlacePrice": 13000,
+      		  "Max": 3,
         	"Offset": 0.3,
         	"hitboxOffset": {
          	   "X": 0,
