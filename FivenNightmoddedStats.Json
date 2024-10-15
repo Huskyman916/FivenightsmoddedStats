@@ -6106,7 +6106,7 @@
             {
                 "Price": 7000,
                 "Range": 27,
-				                "Damage": 600,
+		"Damage": 600,
                 "Burn": 10,
                 "BurnTime": 2,
                 "Cooldown": 2.7
