@@ -115,7 +115,7 @@
             }
         ]
     },
-"WareWolf Foxy": {
+    "WareWolf Foxy": {
         "Type": "Slow Single",
         "Image": "rbxassetid://140426250900137",
         "Rarity": "Secret",
@@ -133,32 +133,24 @@
                 "Range": 15,
                 "Damage": 300,
                 "Cooldown": 1
-                "Slow": 1,
-                "SlowTime": 1.5
             },
             {
                 "Price": 800,
                 "Range": 16,
                 "Damage": 500,
                 "Cooldown": 0.7
-                "Slow": 2,
-                "SlowTime": 1.5
             },
             {
                 "Price": 1200,
                 "Range": 17,
                 "Damage": 700,
                 "Cooldown": 0.6
-                "Slow": 2,
-                "SlowTime": 1.5
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 800,
                 "Cooldown": 0..5
-                "Slow": 2,
-                "SlowTime": 1.5
             }
         ]
     },
