@@ -117,7 +117,7 @@
     },
     "WareWolf Foxy": {
         "Type": "Slow Single",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://140426250900137",
         "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": 0.65,
@@ -5068,6 +5068,53 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
+            }
+        ]
+    },
+"Tarnished Lolbit": {
+        "Type": "Aoe Stun Slow",
+        "Image": "rbxassetid://123600440160662",
+        "Rarity": "DEV",
+        "PlacePrice": 9000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 3.5
+            },
+            {
+                "Price": 6000,
+                "Range": 24,
+                "Damage": 1900,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 3.5
+            },
+            {
+                "Price": 7000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 3.5
             }
         ]
     },
