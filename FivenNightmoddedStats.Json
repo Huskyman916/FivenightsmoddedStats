@@ -6106,7 +6106,7 @@
             {
                 "Price": 7000,
                 "Range": 27,
-		"Damage": 600,
+                "Damage": 600,
                 "Burn": 10,
                 "BurnTime": 2,
                 "Cooldown": 2.7
@@ -6118,6 +6118,545 @@
                 "Burn": 10,
                 "BurnTime": 2,
                 "Cooldown": 2.5
+            }
+        ]
+    },
+
+
+    "Gravelord Foxy": {
+        "Type": "Summon",
+        "Image": "rbxassetid://76307842206911",
+        "Rarity": "Apex",
+        "PlacePrice": 34000,
+        "Offset": 0.5,
+        "Max": 3,
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 45 or 60 times this units damage"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 43000,
+                "Range": 22,
+                "Damage": 4000,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 500,
+                "Cooldown": 2.75
+            },
+            {
+                "Price": 54000,
+                "Range": 24,
+                "Damage": 5000,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 67000,
+                "Range": 25,
+                "Damage": 6000,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 50000,
+                "Cooldown": 2
+            }
+        ]
+    },
+
+
+    "Haunted Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://113183024632182",
+        "Rarity": "Mythic",
+        "PlacePrice": 4000,
+        "Offset": -2,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7000,
+                "Range": 18,
+                "Damage": 300,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Elite Sniper Cupcake": {
+        "Type": "Single",
+        "Image": "rbxassetid://98140234704161",
+        "Rarity": "Rare",
+        "PlacePrice": 750,
+        "Offset": 5,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 140,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1200,
+                "Range": 35,
+                "Damage": 240,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1500,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 2000,
+                "Range": 45,
+                "Damage": 500,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Enraged Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://80554534210979",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 80,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 120,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 160,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Upgraded Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://76006977041371",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 26,
+                "Damage": 50,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Cutlass Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://99151054438999",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 8,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 10,
+                "Damage": 100,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Cool Toy Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://102583887192750",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Demolition Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://117417835066117",
+        "Rarity": "Epic",
+        "PlacePrice": 1250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 3
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+"Reinforced Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120373540270181",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 8,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 60,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Baker Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://107530099452850",
+        "Rarity": "Uncommon",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+"Dino Withered Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://131013206661426",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 600,
+                "Range": 16,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 140,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Blighted Endo Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100997380896121",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 35% and reduces enemy regen by 75%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1800,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
+                "SlowTime": 1,
+                "Bleed": 0.75,
+                "BleedTime": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
+                "SlowTime": 1,
+                "Bleed": 0.75,
+                "BleedTime": 1
+            },
+            {
+                "Price": 16000,
+                "Range": 23,
+                "Damage": 2200,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
+                "SlowTime": 1,
+                "Bleed": 0.75,
+                "BleedTime": 1
+            },
+            {
+                "Price": 18000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
+                "SlowTime": 0.8,
+                "Bleed": 0.75,
+                "BleedTime": 1
+            }
+        ]
+    },
+    "Super Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://92313535673690",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 240,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 23,
+                "Damage": 260,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 27,
+                "Damage": 280,
+                "Cooldown": 0.1
+            },          
+             {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 300,
+                "Cooldown": 0.1
             }
         ]
     }
