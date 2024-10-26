@@ -115,46 +115,7 @@
             }
         ]
     },
-    "WareWolf Foxy": {
-        "Type": "Slow Single",
-        "Image": "rbxassetid://140426250900137",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Offset": 0.65,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 1
-            },
-            {
-                "Price": 800,
-                "Range": 16,
-                "Damage": 500,
-                "Cooldown": 0.7
-            },
-            {
-                "Price": 1200,
-                "Range": 17,
-                "Damage": 700,
-                "Cooldown": 0.6
-            },
-            {
-                "Price": 2000,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 0..5
-            }
-        ]
-    },
-    "Bonnie": {
+      "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
