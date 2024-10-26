@@ -115,6 +115,45 @@
             }
         ]
     },
+    "Warewolf Foxy": {
+        "Type": "Slow Single",
+        "Image": "rbxassetid://140426250900137",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 300,
+                "Cooldown": 8,
+                "Slow": 1,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 800,
+                "Range": 9,
+                "Damage": 400,
+                "Cooldown": 7.5,
+                "Slow": 1,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 10,
+                "Damage": 500,
+                "Cooldown": 7,
+                "Slow": 1,
+                "SlowTime": 0.5
+            }
+        ]
+    },
       "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
@@ -2597,7 +2636,7 @@
                 "Damage": 1000,
                 "Cooldown": 2.5
             },
-
+ 
             {
                 "Price": 10000,
                 "Range": 28,
@@ -2958,7 +2997,7 @@
             }
         ]
     },
-
+ 
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
@@ -2998,7 +3037,7 @@
             }
         ]
     },
-
+ 
     "Fredbear": {
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
@@ -3747,7 +3786,7 @@
             }
         ]
     },
-
+ 
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
@@ -3800,7 +3839,7 @@
             }
         ]
     },
-
+ 
     "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
@@ -4443,7 +4482,7 @@
             }
         ]
     },
-
+ 
     "Jackpot Freddy": {
         "Type": "Single Farm",
         "Image": "rbxassetid://108467505723572",
@@ -4607,7 +4646,7 @@
             }
         ]
     },
-
+ 
 "Astral Bonnie": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://138982182129000",
@@ -4647,7 +4686,7 @@
             }
         ]
     },
-
+ 
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",
@@ -4692,7 +4731,7 @@
             }
         ]
     },
-
+ 
 "Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
@@ -4943,7 +4982,7 @@
             }
         ]
     },
-
+ 
 "Mendo": {
         "Type": "Trap Layer",
         "Image": "rbxassetid://117153987968201",
@@ -4990,7 +5029,7 @@
         "Image": "rbxassetid://123600440160662",
         "Rarity": "Secret",
         "PlacePrice": 4000,
-        "Offset": 0,
+        "Offset": 0.47,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -5037,7 +5076,7 @@
         "Image": "rbxassetid://123600440160662",
         "Rarity": "DEV",
         "PlacePrice": 9000,
-        "Offset": 0,
+        "Offset": 0.819,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -5245,7 +5284,7 @@
             }
         ]
     },
-
+ 
 "Endo 05": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://75720210105816",
@@ -5289,7 +5328,7 @@
             }
         ]
     },
-
+ 
     "Animdude": {
         "Type": "Splash",
         "Image": "rbxassetid://77112261441145",
@@ -5342,7 +5381,7 @@
             }
         ]
     },
-
+ 
     "Fortified Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://86634335404738",
@@ -5382,7 +5421,7 @@
             }
         ]
     },
-
+ 
     "Bomber Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://105906895649413",
@@ -5461,7 +5500,7 @@
             }
         ]
     },
-
+ 
     "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
@@ -5502,8 +5541,8 @@
             }
         ]
     },
-
-
+ 
+ 
      "Fazbear Mafia": {
         "Type": "Attacking Summoner",
         "Image": "rbxassetid://131447165249179",
@@ -5564,7 +5603,7 @@
             }
         ]
     },
-
+ 
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "rbxassetid://122976176441685",
@@ -5613,7 +5652,7 @@
             }
         ]
     },
-
+ 
     "Overclocked Puppet": {
         "Type": "Splash",
         "Image": "rbxassetid://100495958746039",
@@ -5662,8 +5701,8 @@
             }
         ]
     },
-
-
+ 
+ 
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
@@ -5712,9 +5751,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
 "Jack O Cannon": {
         "Type": "Splash",
         "Image": "rbxassetid://96604370427078",
@@ -5754,9 +5793,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
 "Scarecrow Foxy": {
         "Type": "Splash + Burn + Stun",
         "Image": "rbxassetid://112050273953919",
@@ -5812,9 +5851,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
  "Clowntrap": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
@@ -5862,9 +5901,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
  "Grimm Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://101295016610509",
@@ -5904,9 +5943,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
 "Dreadbear": {
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
@@ -5962,8 +6001,8 @@
             }
         ]
     },
-
-
+ 
+ 
 "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
         "Image": "rbxassetid://138089489409264",
@@ -6015,8 +6054,8 @@
             } 
         ]
     },
-
-
+ 
+ 
     
 "Jack O Endo": {
         "Type": "Continuous Burn",
@@ -6066,9 +6105,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
 "Jack O Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://127828338385715",
@@ -6117,9 +6156,9 @@
             }
         ]
     },
-
-
-
+ 
+ 
+ 
 "Pumpkin Balloon Boy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://114209077497389",
@@ -6168,8 +6207,8 @@
             }
         ]
     },
-
-
+ 
+ 
     "Gravelord Foxy": {
         "Type": "Summon",
         "Image": "rbxassetid://76307842206911",
@@ -6184,7 +6223,7 @@
             "Y": 0,
             "Z": 0
         },
-
+ 
         "Upgrades": [
             {
                 "Price": 0,
@@ -6220,8 +6259,8 @@
             }
         ]
     },
-
-
+ 
+ 
     "Haunted Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
