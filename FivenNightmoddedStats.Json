@@ -231,45 +231,6 @@
             }
         ]
     },
-    "Shamrock Freddy": {
-        "Type": "Splash AOE",
-        "Image": "rbxassetid://140426250900137",
-        "Rarity": "AR",
-        "PlacePrice": 1500,
-        "Offset": 0.65,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 3500,
-                "Cooldown": 2.5,
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 5000,
-                "Cooldown": 2,
-            },
-            {
-                "Price": 1200,
-                "Range": 25,
-                "Damage": 6000,
-                "Cooldown": 1.5,
-            },
-            {
-                "Price": 1500,
-                "Range": 30,
-                "Damage": 6500,
-                "Cooldown": 1,
-            }
-        ]
-    },
     "Withered Foxy": {
         "Type": "Dual",
         "Image": "rbxassetid://16632135968",
