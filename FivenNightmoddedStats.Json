@@ -139,8 +139,6 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 14,
-                "SummonDamage": 10,
                 "SummonCooldown": 0.25
             },
             {
@@ -154,8 +152,6 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 16,
-                "SummonDamage": 15,
                 "SummonCooldown": 0.25
             },
             {
@@ -169,8 +165,6 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 24,
-                "SummonDamage": 25,
                 "SummonCooldown": 0.25
             },
             {
@@ -184,8 +178,6 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 35,
                 "SummonCooldown": 0.25
             }
         ]
