@@ -115,6 +115,81 @@
             }
         ]
     },
+    "Trash & The Gang": {
+        "Type": "AOEBurst Summoner",
+        "Image": "rbxassetid://18673468864",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 15,
+                "Cooldown": 0.25,
+                "SummonTime": 35,
+                "Health": 20,
+                "WalkSpeed": 8,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 14,
+                "SummonDamage": 10,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 1500,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.25,
+                "SummonTime": 34,
+                "Health": 30,
+                "WalkSpeed": 8,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 16,
+                "SummonDamage": 15,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.25,
+                "SummonTime": 33,
+                "Health": 50,
+                "WalkSpeed": 9,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 24,
+                "SummonDamage": 25,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 3000,
+                "Range": 23,
+                "Damage": 30,
+                "Cooldown": 0.25,
+                "SummonTime": 32,
+                "Health": 75,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 35,
+                "SummonCooldown": 0.25
+            }
+        ]
+    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
