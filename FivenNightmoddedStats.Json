@@ -130,16 +130,16 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 16,
-                "Damage": 15,
-                "Cooldown": 0.25,
-                "SummonTime": 35,
-                "Health": 20,
-                "WalkSpeed": 8,
+                "Range": 19,
+                "Damage": 35,
+                "Cooldown": 1.5,
+                "SummonTime": 25,
+                "Health": 25,
+                "WalkSpeed": 12,
                 "Amount": 1,
-                "Unit": "Infantry Endo",
+                "Unit": "#1 Crate",
                 "Offset": -2,
-                "SummonCooldown": 0.25
+                "SummonCooldown": 0.15
             },
             {
                 "Price": 1500,
