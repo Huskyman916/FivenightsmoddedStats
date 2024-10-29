@@ -208,6 +208,45 @@
             }
         ]
     },
+    "Radioactive Foxy": {
+        "Type": "Posion Slow",
+        "Image": "rbxassetid://5664666y",
+        "Rarity": "AR",
+        "PlacePrice": 7500,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 2.5,
+                "Slow": 1,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 2.3,
+                "Slow": 2,
+                "SlowTime": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 2.2,
+                "Slow": 2,
+                "SlowTime": 3
+            }
+        ]
+    },
     "Warewolf Foxy": {
         "Type": "Slow Single",
         "Image": "rbxassetid://140426250900137",
