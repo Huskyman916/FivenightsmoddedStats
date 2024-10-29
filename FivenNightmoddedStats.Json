@@ -117,7 +117,7 @@
     },
     "Trash And The Gang": {
         "Type": "AOEBurst Summoner",
-        "Image": "rbxassetid://18673468864",
+        "Image": "rbxassetid://140426250900137",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Max": 2,
@@ -2225,7 +2225,7 @@
     },
     "Easter Bonnie": {
         "Type": "Melee Poison",
-        "Image": "rbxassetid://18363391561",
+        "Image": "rbxassetid://140426250900137",
         "Rarity": "AR",
         "PlacePrice": 7500,
         "Max": 2,
