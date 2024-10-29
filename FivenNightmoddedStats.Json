@@ -138,7 +138,7 @@
                 "WalkSpeed": 1,
                 "Amount": 1,
                 "Unit": "#1 Crate",
-                "Offset": 0,
+                "Offset": -0.5,
                 "SummonCooldown": 0.15
             },
             {
@@ -151,7 +151,7 @@
                 "WalkSpeed": 1,
                 "Amount": 2,
                 "Unit": "#1 Crate",
-                "Offset": 0,
+                "Offset": -0.5,
                 "SummonCooldown": 0.12
             },
             {
@@ -164,7 +164,7 @@
                 "WalkSpeed": 1,
                 "Amount": 3,
                 "Unit": "#1 Crate",
-                "Offset": 0,
+                "Offset": -0.5,
                 "SummonCooldown": 0.10
             }
         ]
