@@ -6379,8 +6379,8 @@
             }
         ]
     },
- 
- 
+
+
     "Gravelord Foxy": {
         "Type": "Summon",
         "Image": "rbxassetid://76307842206911",
@@ -6395,7 +6395,7 @@
             "Y": 0,
             "Z": 0
         },
- 
+
         "Upgrades": [
             {
                 "Price": 0,
@@ -6431,8 +6431,8 @@
             }
         ]
     },
- 
- 
+
+
     "Haunted Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
@@ -6915,6 +6915,261 @@
                 "Range": 30,
                 "Damage": 300,
                 "Cooldown": 0.1
+            }
+        ]
+    },
+    "Juggernaut Bonnie": {
+        "Type": "Continuous Splash + Passive",
+        "Image": "rbxassetid://101410205353650",
+        "Rarity": "Nightmare",
+        "PlacePrice": 75000,
+        "Offset": 0.4,
+        "Max": 2,
+        "Passive": {"Name": "Lethality", "Description": "Every few seconds fires a railgun that deals 50x it's damage and stuns"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 350,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 450,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100000,
+                "Range": 32,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 120000,
+                "Range": 35,
+                "Damage": 600,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+    "Nightguard Afton": {
+        "Type": "Cone AOE Slow + Poison",
+        "Image": "rbxassetid://105795940597453",
+        "Rarity": "Secret",
+        "PlacePrice": 550,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "FEAR", "Description": "Slows enemies by 40% and deals +50% damage in poison"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.8,
+                "Poison": 125,
+                "PoisonLength": 3,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 0.8,
+                "Poison": 175,
+                "PoisonLength": 3,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 0.8,
+                "Poison": 200,
+                "PoisonLength": 3,
+                "Slow": 0.60,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.8,
+                "Poison": 225,
+                "PoisonLength": 2,
+                "Slow": 0.60,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "President Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133399431749556",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 1300,
+                "Cooldown": 3.8
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 1700,
+                "Cooldown": 3
+            }
+        ]
+    },
+
+    "Sharpshooter Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://122218118663611",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 7
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 6
+            },
+            {
+                "Price": 20000,
+                "Range": 40,
+                "Damage": 3000,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 4000,
+                "Cooldown": 5
+            }
+        ]
+    },
+
+    "Augmented Endo": {
+        "Type": "Single",
+        "Image": "rbxassetid://135702265461354",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 25,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1600,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 2200,
+                "Range": 25,
+                "Damage": 50,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+
+    "Ghastly Phantom Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://107487482857244",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 70,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 110,
+                "Cooldown": 0.05
             }
         ]
     }
