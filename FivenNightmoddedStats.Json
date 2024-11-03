@@ -115,60 +115,6 @@
             }
         ]
     },
-    "Trash And The Gang": {
-        "Type": "AOEBurst Summoner",
-        "Image": "rbxassetid://140426250900137",
-        "Rarity": "Secret",
-        "PlacePrice": 5000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.5,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 19,
-                "Damage": 35,
-                "Cooldown": 1.5,
-                "SummonTime": 25,
-                "Health": 25,
-                "WalkSpeed": 6,
-                "Amount": 1,
-                "Unit": "#1 Crate",
-                "Offset": -0.5,
-                "SummonCooldown": 0.15
-            },
-            {
-                "Price": 12000,
-                "Range": 20,
-                "Damage": 55,
-                "Cooldown": 1.3,
-                "SummonTime": 18,
-                "Health": 50,
-                "WalkSpeed": 7,
-                "Amount": 2,
-                "Unit": "#1 Crate",
-                "Offset": -0.5,
-                "SummonCooldown": 0.12
-            },
-            {
-                "Price": 20000,
-                "Range": 20,
-                "Damage": 75,
-                "Cooldown": 1.2,
-                "SummonTime": 14,
-                "Health": 90,
-                "WalkSpeed": 9,
-                "Amount": 3,
-                "Unit": "#1 Crate",
-                "Offset": -0.5,
-                "SummonCooldown": 0.10
-            }
-        ]
-    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
@@ -6429,7 +6375,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 3500,
-                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Unit": {"Necro Spawn"},
                 "Health": 500,
                 "Cooldown": 3
             },
