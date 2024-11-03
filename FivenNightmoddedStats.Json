@@ -6375,7 +6375,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 3500,
-                "Unit": {"Necro Spawn"},
+                "Unit": {"Necro Spawn", "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 3
             },
