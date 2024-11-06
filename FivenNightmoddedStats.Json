@@ -463,6 +463,44 @@
             }
         ]
     },
+    "Pixel Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://131382232835336",
+        "Rarity": "Rare",
+        "PlacePrice": 25000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 40,
+                "Cooldown": 0.08
+            },
+            {
+                "Price": 2500,
+                "Range": 12,
+                "Damage": 45,
+                "Cooldown": 0.07
+            },
+            {
+                "Price": 4500,
+                "Range": 13,
+                "Damage": 50,
+                "Cooldown": 0.06
+            },
+            {
+                "Price": 5500,
+                "Range": 14,
+                "Damage": 65,
+                "Cooldown": 0.04
+            }
+        ]
+    },
     "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
