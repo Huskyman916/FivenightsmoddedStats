@@ -117,7 +117,7 @@
     },
     "Pixel Chica": {
         "Type": "Splash",
-        "Image": "rbxassetid://131382232835336",
+        "Image": "rbxassetid://72715653414996",
         "Rarity": "Epic",
         "PlacePrice": 3500,
         "Max": 3,
@@ -272,7 +272,7 @@
     },
     "Pixel Foxy": {
         "Type": "Slow Single",
-        "Image": "rbxassetid://131382232835336",
+        "Image": "rbxassetid://118765113550980",
         "Rarity": "Secret",
         "PlacePrice": 12000,
         "Offset": 0.65,
@@ -542,7 +542,7 @@
     },
     "Pixel Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://131382232835336",
+        "Image": "rbxassetid://106291660895021",
         "Rarity": "Rare",
         "PlacePrice": 9000,
         "Max": 3,
