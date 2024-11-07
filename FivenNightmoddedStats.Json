@@ -38,6 +38,49 @@
             }
         ]
     },
+    "Pixel Freddy": {
+        "Type": "Support",
+        "Image": "rbxassetid://104695293917899",
+        "Rarity": "Mythic",
+        "PlacePrice": 4000,
+        "NoEnemyAttack": true,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.12
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.20
+            },
+            {
+                "Price": 2200,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.28
+            },
+            {
+                "Price": 2500,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.36
+            }
+        ]
+    },
     "Shamrock Freddy": {
         "Type": "Splash AOE",
         "Image": "rbxassetid://99050770299730",
@@ -117,7 +160,7 @@
     },
     "Pixel Chica": {
         "Type": "Splash",
-        "Image": "rbxassetid://72715653414996",
+        "Image": "rbxassetid://109199209598729",
         "Rarity": "Epic",
         "PlacePrice": 3500,
         "Max": 3,
@@ -272,7 +315,7 @@
     },
     "Pixel Foxy": {
         "Type": "Slow Single",
-        "Image": "rbxassetid://118765113550980",
+        "Image": "rbxassetid://133805408092056",
         "Rarity": "Secret",
         "PlacePrice": 12000,
         "Offset": 0.65,
@@ -542,7 +585,7 @@
     },
     "Pixel Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://106291660895021",
+        "Image": "rbxassetid://122903637336907",
         "Rarity": "Rare",
         "PlacePrice": 9000,
         "Max": 3,
