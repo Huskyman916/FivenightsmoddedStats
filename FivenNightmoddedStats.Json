@@ -2356,7 +2356,7 @@
     "Pixel Shadow Freddy": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://85551297349853",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Max": 2,
         "Passive": {"Name": "Darkness", "Description": "Deals an extra 30% damage in poison"},
