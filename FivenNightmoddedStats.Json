@@ -40,7 +40,7 @@
     },
     "Pixel Freddy": {
         "Type": "Support",
-        "Image": "rbxassetid://104695293917899",
+        "Image": "rbxassetid://128710227274466",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "NoEnemyAttack": true,
@@ -160,7 +160,7 @@
     },
     "Pixel Chica": {
         "Type": "Splash",
-        "Image": "rbxassetid://109199209598729",
+        "Image": "rbxassetid://79391071840406",
         "Rarity": "Epic",
         "PlacePrice": 3500,
         "Max": 3,
@@ -585,7 +585,7 @@
     },
     "Pixel Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://122903637336907",
+        "Image": "rbxassetid://83088236779663",
         "Rarity": "Rare",
         "PlacePrice": 9000,
         "Max": 3,
