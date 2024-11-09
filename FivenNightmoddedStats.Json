@@ -235,6 +235,44 @@
             }
         ]
     },
+    "Pixel Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://83543556604498",
+        "Rarity": "Secret",
+        "PlacePrice": 13000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 850,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 16000,
+                "Range": 24,
+                "Damage": 1350,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 19000,
+                "Range": 27,
+                "Damage": 1650,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 1850,
+                "Cooldown": 1.2
+            }
+        ]
+    },
     "Radioactive Foxy": {
         "Type": "Posion Slow",
         "Image": "rbxassetid://134377986653080",
