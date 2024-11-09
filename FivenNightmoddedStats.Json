@@ -7928,5 +7928,116 @@
             }
 
         ]
+    },
+
+    "Popstar Chica": {
+        "Type": "AOE + Damage Boost",
+        "Image": "rbxassetid://122725475592106",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
+            },
+            {
+                "Price": 14000,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
+
+            },
+            {
+                "Price": 16000,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
+
+            },
+            {
+                "Price": 18000,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
+            }
+        ]
+    },
+
+    "Overseer Foxy": {
+        "Type": "Splash Slow + Passive",
+        "Image": "rbxassetid://75863350712625",
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeting enemies are slowed by 65%"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 160,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 12000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 28,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+
+
+    "Mr Can Do": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": -1.75,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1
+            }
+        ]
     }
 }
