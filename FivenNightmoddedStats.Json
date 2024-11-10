@@ -5160,7 +5160,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 18000,
         "Offset": 0.75,
-        "Max": 3,
+        "Max": 2,
         "MaxChain": 10,
         "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces between up to 10 nearby units dealing damage and stunning them"},
         "hitboxOffset": {
@@ -5171,32 +5171,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 3600,
+                "Range": 25,
+                "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 22000,
-                "Range": 22,
-                "Damage": 4000,
+                "Range": 27,
+                "Damage": 7500,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 24000,
-                "Range": 24,
-                "Damage": 4500,
+                "Range": 28,
+                "Damage": 9000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
                 "Price": 26000,
-                "Range": 25,
-                "Damage": 5000,
+                "Range": 30,
+                "Damage": 10000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -7972,9 +7972,10 @@
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
         "Rarity": "Secret",
-        "PlacePrice": 12000,
-        "Offset": -5.819,
-        "Max": 2,
+        "PlacePrice": 15000,
+        "Offset": -5,
+        "Max": 1,
+        "Passive": {"Name": "Inspire", "Description": "All units in range gain a +35% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7983,33 +7984,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 100,
-                "Cooldown": 0.1,
-                "DamageBoost": 1.32
-            },
-            {
-                "Price": 14000,
-                "Range": 22,
-                "Damage": 150,
-                "Cooldown": 0.1,
-                "DamageBoost": 1.32
-
-            },
-            {
-                "Price": 16000,
-                "Range": 24,
+                "Range": 35,
                 "Damage": 200,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
+            },
+            {
+                "Price": 20000,
+                "Range": 40,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.35
 
             },
             {
-                "Price": 18000,
-                "Range": 25,
-                "Damage": 250,
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 300,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
+
+            },
+            {
+                "Price": 30000,
+                "Range": 50,
+                "Damage": 450,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.35
             }
         ]
     },
@@ -8021,7 +8022,7 @@
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeting enemies are slowed by 65%"},
+        "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeted enemies are slowed by 65%"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -8032,26 +8033,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 160,
-                "Cooldown": 0.1
+                "Damage": 800,
+                "Cooldown": 0.7
             },
             {
                 "Price": 12000,
                 "Range": 27,
-                "Damage": 180,
-                "Cooldown": 0.1
+                "Damage": 950,
+                "Cooldown": 0.65
             },
             {
                 "Price": 14000,
                 "Range": 28,
-                "Damage": 200,
-                "Cooldown": 0.1
+                "Damage": 1100,
+                "Cooldown": 0.6
             },
             {
                 "Price": 16000,
                 "Range": 30,
-                "Damage": 250,
-                "Cooldown": 0.1
+                "Damage": 1250,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -8059,22 +8060,45 @@
 
     "Mr Can Do": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://127532360538478",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 700,
         "Offset": -1.75,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
         "Upgrades": [
-            {
+                      {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 2500,
-                "Cooldown": 1
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.95
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8
             }
         ]
     }
