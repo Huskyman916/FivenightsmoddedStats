@@ -83,7 +83,7 @@
     },
     "Shamrock Freddy": {
         "Type": "Splash AOE",
-        "Image": "rbxassetid://99050770299730",
+        "Image": "rbxassetid://97628646894232",
         "Rarity": "AR",
         "PlacePrice": 1500,
         "Offset": 0.65,
@@ -275,7 +275,7 @@
     },
     "Radioactive Foxy": {
         "Type": "Posion Slow",
-        "Image": "rbxassetid://134377986653080",
+        "Image": "rbxassetid://78331745429029",
         "Rarity": "AR",
         "PlacePrice": 7500,
         "Offset": 0.65,
@@ -2442,7 +2442,7 @@
     },
     "Easter Bonnie": {
         "Type": "Melee Poison",
-        "Image": "rbxassetid://133952007722671",
+        "Image": "rbxassetid://140030584141004",
         "Rarity": "AR",
         "PlacePrice": 7500,
         "Max": 2,
