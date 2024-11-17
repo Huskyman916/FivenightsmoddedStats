@@ -8443,23 +8443,41 @@
         ]
     },
     "Kronos Endo Freddy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "",
         "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
         "Upgrades": [
-                      {
+            {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 3
+                "Range": 27,
+                "Damage": 450,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 550,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 100000,
+                "Range": 29,
+                "Damage": 650,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 120000,
+                "Range": 30,
+                "Damage": 900,
+                "Cooldown": 0.2
             }
         ]
     },
