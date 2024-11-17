@@ -83,7 +83,7 @@
     },
     "Shamrock Freddy": {
         "Type": "Splash AOE",
-        "Image": "rbxassetid://97628646894232",
+        "Image": "rbxassetid://107766410004089",
         "Rarity": "AR",
         "PlacePrice": 1500,
         "Offset": 0.65,
@@ -2442,7 +2442,7 @@
     },
     "Easter Bonnie": {
         "Type": "Melee Poison",
-        "Image": "rbxassetid://140030584141004",
+        "Image": "rbxassetid://70652051267193",
         "Rarity": "AR",
         "PlacePrice": 7500,
         "Max": 2,
