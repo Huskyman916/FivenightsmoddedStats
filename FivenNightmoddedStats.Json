@@ -8449,41 +8449,42 @@
         ]
     },
     "Kronos Endo Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://72218469338747",
+        "Type": "Splash + Passive",
+        "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
-        "PlacePrice": 200000,
+        "PlacePrice": 57000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemeis in range for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
         "Upgrades": [
-            {
+                      {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 25000,
+                "Damage": 50000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 70000,
+                "Range": 30,
+                "Damage": 60000,
                 "Cooldown": 3
             },
             {
                 "Price": 80000,
-                "Range": 28,
-                "Damage": 30000,
-                "Cooldown": 2.8
+                "Range": 33,
+                "Damage": 70000,
+                "Cooldown": 3
             },
             {
-                "Price": 100000,
-                "Range": 29,
-                "Damage": 35000,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 120000,
-                "Range": 30,
-                "Damage": 40000,
-                "Cooldown": 1.5
+                "Price": 90000,
+                "Range": 35,
+                "Damage": 80000,
+                "Cooldown": 3
             }
         ]
     },
@@ -8567,6 +8568,53 @@
                 "Range": 27,
                 "Damage": 7000,
                 "Cooldown": 1.2
+            }
+        ]
+    },
+    "StoneTrap": {
+        "Type": "Cone AOE Burn",
+        "Image": "rbxassetid://102592059060827",
+        "Rarity": "Secret",
+        "PlacePrice": 40000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 9000,
+                "Burn": 250,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 50000,
+                "Range": 24,
+                "Damage": 11000,
+                "Burn": 250,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 60000,
+                "Range": 27,
+                "Damage": 13000,
+                "Burn": 250,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 70000,
+                "Range": 30,
+                "Damage": 15000,
+                "Burn": 250,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
             }
         ]
     }
