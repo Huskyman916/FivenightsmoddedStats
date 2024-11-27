@@ -8449,13 +8449,13 @@
         ]
     },
     "Kronos Endo Freddy": {
-        "Type": "Splash + Passive",
+        "Type": "Nuke + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
-        "PlacePrice": 57000,
+        "PlacePrice": 24879,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemeis in range for 10 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds freezes all enemies on the map for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8465,29 +8465,30 @@
                       {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 50000,
+                "Damage": 45000,
                 "Cooldown": 3
             },
             {
-                "Price": 70000,
+                "Price": 30000,
                 "Range": 30,
                 "Damage": 60000,
                 "Cooldown": 3
             },
             {
-                "Price": 80000,
+                "Price": 40000,
                 "Range": 33,
-                "Damage": 70000,
+                "Damage": 75000,
                 "Cooldown": 3
             },
             {
-                "Price": 90000,
+                "Price": 50000,
                 "Range": 35,
                 "Damage": 80000,
                 "Cooldown": 3
             }
         ]
     },
+    
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
@@ -8575,7 +8576,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://102592059060827",
         "Rarity": "Secret",
-        "PlacePrice": 40000,
+        "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -8593,7 +8594,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 50000,
+                "Price": 30000,
                 "Range": 24,
                 "Damage": 11000,
                 "Burn": 250,
@@ -8601,7 +8602,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 60000,
+                "Price": 35000,
                 "Range": 27,
                 "Damage": 13000,
                 "Burn": 250,
@@ -8609,7 +8610,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 70000,
+                "Price": 40000,
                 "Range": 30,
                 "Damage": 15000,
                 "Burn": 250,
