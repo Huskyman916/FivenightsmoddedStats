@@ -5012,11 +5012,12 @@
  
 "Astral Bonnie": {
         "Type": "Continuous Splash",
-        "Image": "rbxassetid://138982182129000",
+        "Image": "rbxassetid://128604882971057",
         "Rarity": "Apex",
-        "PlacePrice": 50000,
-        "Offset": 0,
-        "Max": 3,
+        "PlacePrice": 25000,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5025,27 +5026,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 500,
-                "Cooldown": 0.1
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
-                "Price": 75000,
-                "Range": 22,
-                "Damage": 600,
-                "Cooldown": 0.1
+                "Price": 35000,
+                "Range": 32,
+                "Damage": 1400,
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
-                "Price": 100000,
-                "Range": 24,
-                "Damage": 700,
-                "Cooldown": 0.1
+                "Price": 40000,
+                "Range": 34,
+                "Damage": 1500,
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
-                "Price": 125000,
-                "Range": 25,
-                "Damage": 800,
-                "Cooldown": 0.1
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 1600,
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             }
         ]
     },
