@@ -8426,6 +8426,7 @@
                 "Cooldown": 0.6,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
+                "Health": 250,
                 "WalkSpeed": 15
             },
             {
@@ -8435,6 +8436,7 @@
                 "Cooldown": 0.55,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
+                "Health": 350,
                 "WalkSpeed": 15
             },
             {
@@ -8444,6 +8446,7 @@
                 "Cooldown": 0.5,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
+                "Health": 450,
                 "WalkSpeed": 15
             },
             {
@@ -8453,6 +8456,7 @@
                 "Cooldown": 0.5,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
+                "Health": 500,
                 "WalkSpeed": 15
             }
         ]
