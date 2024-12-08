@@ -8793,31 +8793,41 @@
                 "Price": 0,
                 "Range": 18,
                 "Damage": 5000,
-                "Cooldown": 2.5
+                "Cooldown": 2.5,
+                "Poison": 25,
+                "PoisonLength": 2.5
             },
             {
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 5500,
-                "Cooldown": 2.4
+                "Cooldown": 2.4,
+                "Poison": 25,
+                "PoisonLength": 2.5
             },
             {
                 "Price": 4000,
                 "Range": 25,
                 "Damage": 6000,
-                "Cooldown": 2.2
+                "Cooldown": 2.2,
+                "Poison": 25,
+                "PoisonLength": 2.5
             },
             {
                 "Price": 6000,
                 "Range": 27,
                 "Damage": 6500,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Poison": 25,
+                "PoisonLength": 2.5
             },
             {
                 "Price": 7000,
                 "Range": 32,
                 "Damage": 7000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
+                "Poison": 25,
+                "PoisonLength": 2.5
             }
         ]
     },
