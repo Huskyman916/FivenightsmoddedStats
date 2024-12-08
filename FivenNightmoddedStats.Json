@@ -8775,6 +8775,55 @@
             }
         ]
     },
+
+    "Uncle Samsonite": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://75654119165337",
+        "Rarity": "DEV",
+        "PlacePrice": 24879,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds freezes all enemies on the map for 10 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+                      {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 45000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 33,
+                "Damage": 75000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 80000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
     "Santa Spring Bonnie": {
         "Type": "Pierce + Gift Poison",
         "Image": "rbxassetid://126512535346358",
