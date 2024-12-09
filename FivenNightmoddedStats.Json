@@ -8873,6 +8873,92 @@
             }
         ]
     },
+    "NutCracker Endo 02": {
+        "Type": "Single",
+        "Image": "rbxassetid://18363471703",
+        "Rarity": "Secret",
+        "PlacePrice": 3500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 18,
+                "Damage": 125,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 130,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 220,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Frosted Nightmare Freddy": {
+        "Type": "Single + Slow",
+        "Image": "rbxassetid://123144805229790",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+                      {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 2500,
+                "Cooldown": 1.2,
+                "Slow": 0.7,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 6000,
+                "Range": 14,
+                "Damage": 2900,
+                "Cooldown": 1.1,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 9500,
+                "Range": 16,
+                "Damage": 3200,
+                "Cooldown": 1.8,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 13000,
+                "Range": 18,
+                "Damage": 3500,
+                "Cooldown": 1.5,
+                "Slow": 0.9,
+                "SlowTime": 1.5
+            }
+        
+        ]
+    },
     "Santa Spring Bonnie": {
         "Type": "Pierce + Gift Poison",
         "Image": "rbxassetid://94971359672200",
