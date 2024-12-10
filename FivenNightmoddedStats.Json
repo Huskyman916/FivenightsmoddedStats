@@ -7658,7 +7658,7 @@
     "Santa Helpy": {
         "Type": "AOE and Damage + Range Booster",
         "Image": "rbxassetid://87048898492693",
-        "Rarity": "Apex",
+        "Rarity": "Event",
         "PlacePrice": 6500,
         "Offset": -0.75,
         "Max": 2,
@@ -8876,7 +8876,7 @@
     "NutCracker Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://115782463830514",
-        "Rarity": "Secret",
+        "Rarity": "Event",
         "PlacePrice": 3500,
         "Max": 4,
         "hitboxOffset": {
@@ -8914,7 +8914,7 @@
     "Frosted Nightmare Freddy": {
         "Type": "Single + Slow",
         "Image": "rbxassetid://137252538541540",
-        "Rarity": "Secret",
+        "Rarity": "Event",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -8962,7 +8962,7 @@
     "Santa Spring Bonnie": {
         "Type": "Pierce + Gift Poison",
         "Image": "rbxassetid://94971359672200",
-        "Rarity": "Secret",
+        "Rarity": "Event",
         "PlacePrice": 2000,
         "Offset": 0,
         "Max": 3,
