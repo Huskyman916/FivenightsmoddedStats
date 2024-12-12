@@ -8911,6 +8911,53 @@
             }
         ]
     },
+    "Ice Berg Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://125661681083696",
+        "Rarity": "Event",
+        "PlacePrice": 5000,
+        "Offset": 1,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6500,
+                "Cooldown": 3,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 24,
+                "Damage": 7000,
+                "Cooldown": 2.85,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 9500,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 2.7,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 8500,
+                "Cooldown": 2.5,
+                "Slow": 0.8,
+                "SlowTime": 1.5
+            }
+        ]
+    },
     "Frosted Nightmare Freddy": {
         "Type": "Single + Slow",
         "Image": "rbxassetid://137252538541540",
