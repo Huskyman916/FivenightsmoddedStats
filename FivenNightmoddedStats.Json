@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Angel Afton": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Event",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 17,
+                "Damage": 780,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1750,
+                "Range": 19,
+                "Damage": 950,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2250,
+                "Range": 23,
+                "Damage": 1200,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Festive Molten Freddy": {
         "Type": "Explosion Burn",
         "Image": "rbxassetid://74482411818517",
