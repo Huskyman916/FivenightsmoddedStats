@@ -3697,6 +3697,44 @@
             }
         ]
     },
+    "Dark Angel Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://17629034232",
+        "Rarity": "Secret",
+        "PlacePrice": 5850,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1250,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7000,
+                "Range": 22,
+                "Damage": 1800,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 2800,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Nightmare Mangle": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
