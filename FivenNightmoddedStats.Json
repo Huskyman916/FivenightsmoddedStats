@@ -38,6 +38,54 @@
             }
         ]
     },
+    "Festive Molten Freddy": {
+        "Type": "Explosion Burn",
+        "Image": "rbxassetid://74482411818517",
+        "Rarity": "Secret",
+        "PlacePrice": 18000,
+        "Offset": -0.75,
+        "Max": 2,
+        "MaxChain": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 2,
+                "Burn": 450,
+                "BurnTime": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 7000,
+                "Cooldown": 2,
+                "Burn": 500,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 9000,
+                "Cooldown": 2,
+                "Burn": 580,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 1.7,
+                "Burn": 680,
+                "BurnTime": 1.2
+            }
+        ]
+    },
     "Pixel Freddy": {
         "Type": "Support",
         "Image": "rbxassetid://128710227274466",
