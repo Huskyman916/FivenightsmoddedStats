@@ -1989,6 +1989,49 @@
             }
         ]
     },
+    "Bundle-O-Presents": {
+        "Type": "Farm",
+        "Image": "rbxassetid://77202832854105",
+        "Rarity": "Event",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 3,
+                "Farm": 1450
+            },
+            {
+                "Price": 5000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.5,
+                "Farm": 2000
+            },
+            {
+                "Price": 8000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2,
+                "Farm": 3000
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1.5,
+                "Farm": 5000
+            }
+        ]
+    },
     "Phantom Mangle": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363533024",
