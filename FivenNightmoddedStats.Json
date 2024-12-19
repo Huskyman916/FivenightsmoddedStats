@@ -2054,29 +2054,29 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 3,
+                "Cooldown": 6,
                 "Farm": 1450
             },
             {
                 "Price": 5000,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 2.5,
+                "Cooldown": 5,
                 "Farm": 2000
             },
             {
                 "Price": 8000,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 2,
-                "Farm": 3000
+                "Cooldown": 3,
+                "Farm": 3200
             },
             {
                 "Price": 10000,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 1.5,
-                "Farm": 5000
+                "Cooldown": 3,
+                "Farm": 4300
             }
         ]
     },
