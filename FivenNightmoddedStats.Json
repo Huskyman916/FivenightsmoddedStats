@@ -7627,12 +7627,13 @@
     },
     
     "Lefty": {
-        "Type": "Cone AOE",
+        "Type": "Cone AOE + Summon",
         "Image": "rbxassetid://71854603701229",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7643,24 +7644,28 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 60,
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 20000,
                 "Range": 22,
                 "Damage": 70,
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 25,
                 "Damage": 80,
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 30,
                 "Damage": 110,
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             }
         ]
