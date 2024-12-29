@@ -38,6 +38,50 @@
             }
         ]
     },
+"Angelic Ballora": {
+        "Type": "Cooldown Booster",
+        "Image": "rbxassetid://126277115055958",
+        "Rarity": "Mythic",
+        "PlacePrice": 1200,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8
+            },
+            {
+                "Price": 4500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.7
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.6
+            },
+            {
+                "Price": 8500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.55
+            }
+        ]
+    },
     "Ruined Angel Puppet": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://125996027468880",
