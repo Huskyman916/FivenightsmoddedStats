@@ -38,6 +38,62 @@
             }
         ]
     },
+    "Ruined Angel Puppet": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://125996027468880",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
+        "Offset": 0.5,
+        "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 600,
+                "Burn": 50,
+                "BurnTime": 1.5,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 3000,
+                "Range": 22,
+                "Damage": 750,
+                "Burn": 56,
+                "BurnTime": 1.5,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 5000,
+                "Range": 24,
+                "Damage": 850,
+                "Burn": 67,
+                "BurnTime": 1.5,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 8000,
+                "Range": 27,
+                "Damage": 1050,
+                "Burn": 80,
+                "BurnTime": 1.5,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 1200,
+                "Burn": 100,
+                "BurnTime": 1.5,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Angel Afton": {
         "Type": "Single",
         "Image": "rbxassetid://82345842230153",
