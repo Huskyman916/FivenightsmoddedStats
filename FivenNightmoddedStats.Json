@@ -38,10 +38,66 @@
             }
         ]
     },
+    "Nephalem Chica": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://136542283786901",
+        "Rarity": "Nightmare",
+        "PlacePrice": 9500,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10800,
+                "Burn": 110,
+                "BurnTime": 1,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9000,
+                "Range": 22,
+                "Damage": 14750,
+                "Burn": 187,
+                "BurnTime": 1.5,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 16900,
+                "Burn": 145,
+                "BurnTime": 1.5,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 20550,
+                "Burn": 200,
+                "BurnTime": 2,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 25800,
+                "Burn": 2300,
+                "BurnTime": 2.5,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "SatanTrap": {
         "Type": "Splash",
         "Image": "rbxassetid://122788365168818",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -179,7 +235,7 @@
     "Angel Afton": {
         "Type": "Single",
         "Image": "rbxassetid://82345842230153",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
         "Offset": 0.3,
