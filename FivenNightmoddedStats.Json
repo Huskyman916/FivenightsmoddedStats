@@ -38,6 +38,52 @@
             }
         ]
     },
+    "Burntrap": {
+        "Type": "Pierce + slow",
+        "Image": "rbxassetid://120446334712341",
+        "Rarity": "Nightmare",
+        "PlacePrice": 19870,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 1,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 7000,
+                "Range": 22,
+                "Damage": 7200,
+                "Cooldown": 0.95,
+                "Slow": 0.67,
+                "SlowTime": 1.7
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 10400,
+                "Cooldown": 1,
+                "Slow": 0.64,
+                "SlowTime": 1.9
+            },
+            {
+                "Price": 16000,
+                "Range": 30,
+                "Damage": 14800,
+                "Cooldown": 0.7,
+                "Slow": 0.6,
+                "SlowTime": 2
+            }
+        ]
+    },
     "Nephalem Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://136542283786901",
@@ -98,8 +144,8 @@
         "Type": "Splash",
         "Image": "rbxassetid://122788365168818",
         "Rarity": "Secret",
-        "PlacePrice": 20000,
-        "Max": 2,
+        "PlacePrice": 10000,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -110,30 +156,30 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 3000,
-                "Cooldown": 1
+                "Cooldown": 2
             },
             {
-                "Price": 30000,
+                "Price": 10000,
                 "Range": 22,
-                "Damage": 1200,
-                "Cooldown": 0.95
+                "Damage": 5200,
+                "Cooldown": 1.9
             },
             {
-                "Price": 40000,
+                "Price": 15000,
                 "Range": 25,
-                "Damage": 4400,
-                "Cooldown": 0.9
+                "Damage": 6400,
+                "Cooldown": 1.8
             },
             {
-                "Price": 50000,
+                "Price": 20000,
                 "Range": 30,
-                "Damage": 5800,
-                "Cooldown": 0.8
+                "Damage": 7800,
+                "Cooldown": 1.6
             }
         ]
     },
     "Angelic Ballora": {
-        "Type": "Cooldown Booster",
+        "Type": "Support",
         "Image": "rbxassetid://126277115055958",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
