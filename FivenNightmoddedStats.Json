@@ -84,11 +84,61 @@
             }
         ]
     },
+    "Huggy Wuggy": {
+        "Type": "Pierce + slow + Support",
+        "Image": "rbxassetid://120446334712341",
+        "Rarity": "DEV",
+        "PlacePrice": 10000,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 7000,
+                "Cooldown": 0.6,
+                "Slow": 0.7,
+                "SlowTime": 1
+                "DamageBoost": 2
+            },
+            {
+                "Price": 7000,
+                "Range": 22,
+                "Damage": 10200,
+                "Cooldown": 0.5,
+                "Slow": 0.67,
+                "SlowTime": 1.7
+                "DamageBoost": 3
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 15400,
+                "Cooldown": 0.3,
+                "Slow": 0.64,
+                "SlowTime": 1.9
+                "DamageBoost": 4
+            },
+            {
+                "Price": 16000,
+                "Range": 30,
+                "Damage": 20800,
+                "Cooldown": 0.1,
+                "Slow": 0.6,
+                "SlowTime": 2
+                "DamageBoost": 5
+            }
+        ]
+    },
     "Nephalem Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://136542283786901",
         "Rarity": "Nightmare",
-        "PlacePrice": 9500,
+        "PlacePrice": 10500,
         "Offset": 0.5,
         "Max": 2,
         "Passive": {"Name": "Burn", "Description": "Burns enemies"},
@@ -144,7 +194,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://122788365168818",
         "Rarity": "Secret",
-        "PlacePrice": 10000,
+        "PlacePrice": 7000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -226,7 +276,7 @@
         "Type": "Splash Burn",
         "Image": "rbxassetid://125996027468880",
         "Rarity": "Epic",
-        "PlacePrice": 2500,
+        "PlacePrice": 950,
         "Offset": 0.5,
         "Max": 3,
         "Passive": {"Name": "Burn", "Description": "Burns enemies"},
@@ -282,7 +332,7 @@
         "Type": "Single",
         "Image": "rbxassetid://82345842230153",
         "Rarity": "Rare",
-        "PlacePrice": 800,
+        "PlacePrice": 300,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
