@@ -37,7 +37,46 @@
                 "Cooldown": 0.75
             }
         ]
-    },  
+    }, 
+    "Rage Vr Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://81399183081335",
+        "Rarity": "AR",
+        "PlacePrice": 9500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 24,
+                "Damage": 2750,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 12500,
+                "Range": 27,
+                "Damage": 3000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 3600,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Highscore Toy Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://118220960368744",
