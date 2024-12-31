@@ -41,7 +41,7 @@
     "Flaming SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://88546173042781",
-        "Rarity": "Nightmare",
+        "Rarity": "AR",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
