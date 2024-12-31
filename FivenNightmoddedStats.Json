@@ -197,7 +197,7 @@
         "PlacePrice": 10500,
         "Offset": 0.5,
         "Max": 2,
-        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
+        "Passive": {"Name": "Mayhem", "Description": "Burns enemies + 25% more money"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2918,7 +2918,7 @@
     },
     "Easter Bonnie": {
         "Type": "Melee Poison",
-        "Image": "rbxassetid://70652051267193",
+        "Image": "rbxassetid://139800778445660",
         "Rarity": "AR",
         "PlacePrice": 7500,
         "Max": 2,
