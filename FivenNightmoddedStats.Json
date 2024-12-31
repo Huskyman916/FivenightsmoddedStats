@@ -37,7 +37,46 @@
                 "Cooldown": 0.75
             }
         ]
-    }, 
+    },
+    "Vr Toy Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://123433913980068",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1740,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 23,
+                "Damage": 2660,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 27,
+                "Damage": 3780,
+                "Cooldown": 0.1
+            },          
+             {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 4900,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Rage Vr Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://81399183081335",
@@ -135,7 +174,7 @@
     },
     "Game Over Highscore Toy Chica": {
         "Type": "Splash Burn + Passive",
-        "Image": "rbxassetid://118220960368744",
+        "Image": "rbxassetid://93122479801137",
         "Rarity": "AR",
         "PlacePrice": 5500,
         "Offset": 0.5,
