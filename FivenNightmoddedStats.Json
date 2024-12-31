@@ -133,6 +133,62 @@
             }
         ]
     },
+    "Game Over Highscore Toy Chica": {
+        "Type": "Splash Burn + Passive",
+        "Image": "rbxassetid://118220960368744",
+        "Rarity": "AR",
+        "PlacePrice": 5500,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Hot n Ready!", "Description": "Burns enemies when the cupcake makes contact"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6800,
+                "Burn": 50,
+                "BurnTime": 1,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 4000,
+                "Range": 22,
+                "Damage": 7987,
+                "Burn": 78,
+                "BurnTime": 1.5,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 8644,
+                "Range": 24,
+                "Damage": 8050,
+                "Burn": 94,
+                "BurnTime": 1.5,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 9000,
+                "Burn": 112,
+                "BurnTime": 2,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 10567,
+                "Burn": 124,
+                "BurnTime": 2,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Huggy Wuggy": {
         "Type": "Pierce + slow + Support",
         "Image": "rbxassetid://78037398721637",
