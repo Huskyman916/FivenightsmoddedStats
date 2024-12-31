@@ -37,8 +37,64 @@
                 "Cooldown": 0.75
             }
         ]
+    },  
+    "Highscore Toy Chica": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://118220960368744",
+        "Rarity": "AR",
+        "PlacePrice": 5500,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4800,
+                "Burn": 50,
+                "BurnTime": 1,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 22,
+                "Damage": 5550,
+                "Burn": 78,
+                "BurnTime": 1.5,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6050,
+                "Range": 24,
+                "Damage": 6050,
+                "Burn": 94,
+                "BurnTime": 1.5,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 7800,
+                "Range": 27,
+                "Damage": 7000,
+                "Burn": 112,
+                "BurnTime": 2,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 8567,
+                "Burn": 124,
+                "BurnTime": 2,
+                "Cooldown": 1.6
+            }
+        ]
     },
-"Huggy Wuggy": {
+    "Huggy Wuggy": {
         "Type": "Pierce + slow + Support",
         "Image": "rbxassetid://78037398721637",
         "Rarity": "DEV",
