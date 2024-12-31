@@ -248,6 +248,57 @@
             }
         ]
     },
+    "Chocolate Bonnie": {
+        "Type": "Splash + Passive",
+        "Image": "rbxassetid://99775208555476",
+        "Rarity": "AR",
+        "PlacePrice": 5500,
+        "Offset": 0.5,
+        "Max": 3,
+        "Passive": {"Name": "Choco Meyham", "Description": "Starts attacking faster every 60sec"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3800,
+                "BurnTime": 1,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 22,
+                "Damage": 4550,
+                "BurnTime": 1.5,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6050,
+                "Range": 24,
+                "Damage": 5050,
+                "BurnTime": 1.5,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 7800,
+                "Range": 27,
+                "Damage": 6000,
+                "BurnTime": 2,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 8567,
+                "BurnTime": 2,
+                "Cooldown": 1.6
+            }
+        ]
+    },
     "Game Over Highscore Toy Chica": {
         "Type": "Splash Burn + Passive",
         "Image": "rbxassetid://93122479801137",
