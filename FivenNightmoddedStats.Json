@@ -38,10 +38,48 @@
             }
         ]
     },
+    "System Error Toy Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://119215929237356",
+        "Rarity": "AR",
+        "PlacePrice": 17000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 400,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Vr Toy Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://123433913980068",
-        "Rarity": "Secret",
+        "Rarity": "AR",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
