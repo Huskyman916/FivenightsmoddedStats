@@ -38,6 +38,44 @@
             }
         ]
     },
+    "Flaming SpringTrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://88546173042781",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2900,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 3200,
+                "Cooldown": 0.95
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 4400,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 5800,
+                "Cooldown": 0.8
+            }
+        ]
+    },
     "System Error Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://119215929237356",
