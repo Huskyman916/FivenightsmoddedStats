@@ -38,6 +38,85 @@
             }
         ]
     },
+    "American Freddy": {
+        "Type": "Single + AMERICA",
+        "Image": "rbxassetid://131967204288343",
+        "Rarity": "Forgotten",
+        "PlacePrice": 1776,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 1675,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 1914,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 2001,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 2024,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "8-Bit Baby": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://118710621726255",
+        "Rarity": "Apex",
+        "PlacePrice": 14000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "PIXELS", "Description": "every 25th attack she deals 400% extra damage"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 9000,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 10000,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 11000,
+                "Cooldown": 2.6
+            }
+        ]
+    },
     "Flaming SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://88546173042781",
