@@ -11236,29 +11236,73 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
                 "Price": 500,
                 "Range": 25,
                 "Damage": 300,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
                 "Price": 600,
                 "Range": 25,
                 "Damage": 400,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
                 "Price": 700,
                 "Range": 25,
                 "Damage": 500,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
+            }
+        ]
+    },
+    "Stardrop": {
+        "Type": "Pierce + Passive",
+        "Image": "rbxassetid://107273207289047",
+        "Rarity": "Nightmare",
+        "PlacePrice": 18000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units (+70% shiny). Deal +75% damage if Moondrop or Sunshine are on the same team."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 10500,
+                "Cooldown": 2,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 13500,
+                "Cooldown": 2,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 24000,
+                "Range": 27,
+                "Damage": 16500,
+                "Cooldown": 2,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 28000,
+                "Range": 30,
+                "Damage": 18500,
+                "Cooldown": 2,
+                "RangeBoost": 1.35
             }
         ]
     }
