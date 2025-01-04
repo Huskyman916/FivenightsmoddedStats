@@ -11316,7 +11316,8 @@
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units (+70% shiny). Deal +75% damage if Moondrop or Sunshine are on the same team."},
+        "NoEnemyAttack": true,
+        "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units (+70% shiny). Stardrop deals +75% damage if either Moondrop or Sunshine are on the same team."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11350,6 +11351,179 @@
                 "Damage": 18500,
                 "Cooldown": 2,
                 "RangeBoost": 1.35
+            }
+        ]
+    },
+    "Coffee": {
+        "Type": "Damage + Cooldown Boost",
+        "Image": "rbxassetid://131733393221448",
+        "Rarity": "Forgotten",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Coffee", "Description": "Coffee"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 600,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 700,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.73,
+                "DamageBoost": 1.27
+            }
+        ]
+    },
+    "Gilded Knight": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://120947166823124",
+        "Rarity": "Apex",
+        "PlacePrice": 21000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "...", "Description": "The Strongest?"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 14000,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 16000,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 19000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+    "Glamrock Endo": {
+        "Type": "Damage Boost",
+        "Image": "rbxassetid://99936011662010",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "NoEnemyAttack": true,
+        "Offset": 0.7,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.26
+            }
+        ]
+    },
+    "Shadow of Afton": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://78940990099734",
+        "Rarity": "Nightmare",
+        "PlacePrice": 14500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 18000,
+                "Range": 24,
+                "Damage": 1200,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 20000,
+                "Range": 26,
+                "Damage": 1500,
+                "Cooldown": 0.2
             }
         ]
     }
