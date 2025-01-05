@@ -38,6 +38,66 @@
             }
         ]
     },
+     "Squid Guy": {
+        "Type": "Attacking Summoner",
+        "Image": "rbxassetid://86939626939930",
+        "Rarity": "DEV",
+        "PlacePrice": 5000,
+        "Offset": 0.3,
+        "Max": 2,
+        "Passive": {"Name": "Who lives in a pineapple under the sea?", "Description": "Spawns His good old friends from where he lives to attack!"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2644,
+                "Cooldown": 1.7,
+                "SummonTime": 20,
+                "Unit": "Thief Node",
+                "WalkSpeed": 15,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 6000,
+                "Range": 28,
+                "Damage": 3876,
+                "Cooldown": 1.5,
+                "SummonTime": 25,
+                "Unit": "Greedy Node",
+                "WalkSpeed": 12,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 9000,
+                "Range": 32,
+                "Damage": 4286,
+                "Cooldown": 1.2,
+                "SummonTime": 30,
+                "Unit": "Friends Node",
+                "WalkSpeed": 10,
+                "SummonRange": 30,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 1400,
+                "Cooldown": 0.4,
+                "SummonTime": 30,
+                "Unit": "Fazbear Mafia Car",
+                "WalkSpeed": 15,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            }
+        ]
+    },
     "Glamrock Bonnie": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://130674039238913",
