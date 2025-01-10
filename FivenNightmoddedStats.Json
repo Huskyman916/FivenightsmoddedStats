@@ -58,7 +58,7 @@
                 "Damage": 2644,
                 "Cooldown": 1.7,
                 "SummonTime": 20,
-                "Unit": "Thief Node",
+                "Unit": "Friends Node",
                 "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
@@ -69,7 +69,7 @@
                 "Damage": 3876,
                 "Cooldown": 1.5,
                 "SummonTime": 25,
-                "Unit": "Greedy Node",
+                "Unit": "Friends Node",
                 "WalkSpeed": 12,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
@@ -89,9 +89,9 @@
                 "Price": 12000,
                 "Range": 35,
                 "Damage": 1400,
-                "Cooldown": 0.4,
+                "Cooldown": 1.1,
                 "SummonTime": 30,
-                "Unit": "Fazbear Mafia Car",
+                "Unit": "Friends Node",
                 "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
