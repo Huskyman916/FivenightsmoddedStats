@@ -11260,31 +11260,6 @@
             }
         ]
     },
-
-
-    "Coffee": {
-        "Type": "Damage + Cooldown Boost",
-        "Image": "",
-        "Rarity": "Forgotten",
-        "PlacePrice": 11340,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-             "Cooldown": 1
-            }
-        ]
-    },
     "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
