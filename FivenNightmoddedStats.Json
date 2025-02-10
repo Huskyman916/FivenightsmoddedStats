@@ -12217,6 +12217,57 @@
             }
         ]
     },
+    "Charlie Emily": {
+        "Type": "Slow + Single",
+        "Image": "rbxassetid://114634057020074",
+        "Rarity": "Forgotten",
+        "PlacePrice": 750,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0.1,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 17,
+                "Damage": 150,
+                "Cooldown": 0.1,
+                "Slow": 0.68
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "Slow": 0.66
+            },
+            {
+                "Price": 1800,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "Slow": 0.64
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "Slow": 0.6
+            }
+        ]
+    },
     "Soulmate Puppet": {
         "Type": "Splash + Passive",
         "Image": "rbxassetid://127566861240944",
