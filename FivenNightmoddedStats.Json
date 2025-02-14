@@ -41,7 +41,7 @@
      "Squid Guy": {
         "Type": "Attacking Summoner",
         "Image": "rbxassetid://86939626939930",
-        "Rarity": "DEV",
+        "Rarity": "FN MODDED",
         "PlacePrice": 5000,
         "Offset": 0.3,
         "Max": 2,
@@ -544,9 +544,9 @@
     "Huggy Wuggy": {
         "Type": "Pierce + slow + Support",
         "Image": "rbxassetid://78037398721637",
-        "Rarity": "DEV",
-        "PlacePrice": 10000,
-        "Max": 5,
+        "Rarity": "FN MODDED",
+        "PlacePrice": 1170,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -557,7 +557,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 7000,
-                "Cooldown": 0.6,
+                "Cooldown": 1,
                 "Slow": 0.7,
                 "SlowTime": 1,
                 "DamageBoost": 2
@@ -566,7 +566,7 @@
                 "Price": 7000,
                 "Range": 22,
                 "Damage": 10200,
-                "Cooldown": 0.5,
+                "Cooldown": 1.2,
                 "Slow": 0.67,
                 "SlowTime": 1.7,
                 "DamageBoost": 3
@@ -575,7 +575,7 @@
                 "Price": 12000,
                 "Range": 25,
                 "Damage": 15400,
-                "Cooldown": 0.3,
+                "Cooldown": 1.4,
                 "Slow": 0.64,
                 "SlowTime": 1.9,
                 "DamageBoost": 4
@@ -584,7 +584,7 @@
                 "Price": 16000,
                 "Range": 30,
                 "Damage": 20800,
-                "Cooldown": 0.1,
+                "Cooldown": 1.4,
                 "Slow": 0.6,
                 "SlowTime": 2,
                 "DamageBoost": 5
@@ -921,7 +921,7 @@
     "Pixel Freddy": {
         "Type": "Support",
         "Image": "rbxassetid://128710227274466",
-        "Rarity": "Mythic",
+        "Rarity": "FN MODDED",
         "PlacePrice": 4000,
         "NoEnemyAttack": true,
         "Max": 3,
@@ -1041,7 +1041,7 @@
     "Pixel Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://79391071840406",
-        "Rarity": "Epic",
+        "Rarity": "FN MODDED",
         "PlacePrice": 3500,
         "Max": 3,
         "hitboxOffset": {
@@ -1118,7 +1118,7 @@
     "Pixel Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://83543556604498",
-        "Rarity": "Secret",
+        "Rarity": "FN MODDED",
         "PlacePrice": 13000,
         "Max": 2,
         "hitboxOffset": {
@@ -1234,7 +1234,7 @@
     "Pixel Foxy": {
         "Type": "Slow Single",
         "Image": "rbxassetid://133805408092056",
-        "Rarity": "Secret",
+        "Rarity": "FN MODDED",
         "PlacePrice": 12000,
         "Offset": 0.65,
         "Max": 2,
@@ -1504,7 +1504,7 @@
     "Pixel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://83088236779663",
-        "Rarity": "Rare",
+        "Rarity": "FN MODDED",
         "PlacePrice": 9000,
         "Max": 3,
         "hitboxOffset": {
@@ -3318,7 +3318,7 @@
     "Pixel Shadow Freddy": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://85551297349853",
-        "Rarity": "Nightmare",
+        "Rarity": "FN MODDED",
         "PlacePrice": 20000,
         "Max": 2,
         "Passive": {"Name": "Darkness", "Description": "Deals an extra 30% damage in poison"},
