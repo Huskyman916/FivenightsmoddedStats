@@ -12582,5 +12582,350 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Eclipse": {
+        "Type": "Single",
+        "Image": "rbxassetid://91251907054257",
+        "Rarity": "Mythic",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1700,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 4500,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 6000,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 8000,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "The Mimic": {
+        "Type": "Slash",
+        "Image": "rbxassetid://108843809969916",
+        "Rarity": "Secret",
+        "PlacePrice": 16000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 13500,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 17000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 25000,
+                "Range": 29,
+                "Damage": 22000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 25000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Vanny": {
+        "Type": "Slash + Slow",
+        "Image": "rbxassetid://86358962940619",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Afton's Agony", "Description": "Enemies hit are slowed by 65%, deal +50% Damage if on the same team a Springtrap unit."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 2
+            },
+            {
+                "Price": 7000,
+                "Range": 24,
+                "Damage": 10000,
+                "Cooldown": 1.9,
+                "Slow": 0.35,
+                "SlowTime": 2
+            },
+            {
+                "Price": 9000,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
+                "SlowTime": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 27,
+                "Damage": 14000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
+                "SlowTime": 2
+            }
+        ]
+    },
+    "Burntrap": {
+        "Type": "Splash + Anti Regen",
+        "Image": "rbxassetid://120446334712341",
+        "Rarity": "Nightmare",
+        "PlacePrice": 18000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Scourch", "Description": "Attacks apply 80% anti regen for 9 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 12000,
+                "Cooldown": 2.3,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 22000,
+                "Range": 25,
+                "Damage": 15000,
+                "Cooldown": 2.2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 18000,
+                "Cooldown": 2.1,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 22500,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            }
+        ]
+    },
+    "Pixel OMC": {
+        "Type": "Single",
+        "Image": "rbxassetid://78679487650695",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Candy Cadet": {
+        "Type": "Cooldown Boost",
+        "Image": "rbxassetid://104356297194309",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 700,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.78
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.72
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.67
+            }
+        ]
+    },
+    "Nightmare Bot": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://122930850408296",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 650,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Fan": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://70879844361967",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": -1,
+        "Max": 3,
+        "Passive": {"Name": "Fan", "Description": "Attacks slow enemies by 30%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 300,
+                "Range": 24,
+                "Damage": 350,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 400,
+                "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 500,
+                "Range": 27,
+                "Damage": 500,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
     }
 }
