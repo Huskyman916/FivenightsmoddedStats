@@ -38,6 +38,53 @@
             }
         ]
     },
+    "Voxel Bonnie": {
+        "Type": "AOE Stun",
+        "Image": "rbxassetid://118423963823544",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 2500,
+        "Offset": 0.5,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 550,
+                "Cooldown": 0.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 7000,
+                "Range": 28,
+                "Damage": 875,
+                "Cooldown": 0.1,
+                "Slow": 0,
+                "SlowTime": 0.7
+            },
+            {
+                "Price": 11000,
+                "Range": 29,
+                "Damage": 1250,
+                "Cooldown": 0.1,
+                "Slow": 0,
+                "SlowTime": 0.8
+            },
+            {
+                "Price": 20000,
+                "Range": 32,
+                "Damage": 1670,
+                "Cooldown": 0.08,
+                "Slow": 0,
+                "SlowTime": 0.9
+            }
+        ]
+    },
     "Voxel Freddy": {
         "Type": "Splash + Slow",
         "Image": "rbxassetid://82561850464672",
