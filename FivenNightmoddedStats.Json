@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Voxel Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://75659851055668",
+        "Rarity": "FN MODDED",
+        "PlacePrice": 9500,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 24,
+                "Damage": 2750,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 12500,
+                "Range": 27,
+                "Damage": 3000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 3600,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Voxel Bonnie": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://118423963823544",
