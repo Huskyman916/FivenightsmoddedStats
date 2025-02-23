@@ -38,6 +38,46 @@
             }
         ]
     },
+    "M.X.E.S": {
+        "Type": "Cone AOE Pierce + Stun",
+        "Image": "rbxassetid://99807714990509",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2523,
+        "Offset": 0,
+        "Max": 2,
+        "NoEnemyAttack": false,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 1567,
+                "Cooldown": 0.02
+            },
+            {
+                "Price": 10000,
+                "Range": 29,
+                "Damage": 1876,
+                "Cooldown": 0.03
+            },
+            {
+                "Price": 20000,
+                "Range": 31,
+                "Damage": 2345,
+                "Cooldown": 0.03
+            },
+            {
+                "Price": 55000,
+                "Range": 34,
+                "Damage": 3568,
+                "Cooldown": 0.03
+            }
+        ]
+    },
     "Voxel Chica": {
         "Type": "Single",
         "Image": "rbxassetid://75659851055668",
