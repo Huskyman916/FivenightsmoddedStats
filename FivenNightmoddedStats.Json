@@ -77,12 +77,12 @@
             }
         ]
     },
-    "SatanTrap": {
-        "Type": "Splash",
-        "Image": "rbxassetid://122788365168818",
-        "Rarity": "Secret",
-        "PlacePrice": 7000,
-        "Max": 3,
+    "El Chip": {
+        "Type": "Splash + Stun",
+        "Image": "rbxassetid://135626506638641",
+        "Rarity": "Apex",
+        "PlacePrice": 24600,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -92,64 +92,34 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 2
+                "Damage": 16789,
+                "Cooldown": 2.5
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 10000,
                 "Range": 22,
-                "Damage": 5200,
-                "Cooldown": 1.9
+                "Damage": 18760,
+                "Cooldown": 2.3
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 15000,
                 "Range": 25,
-                "Damage": 6400,
-                "Cooldown": 1.8
+                "Damage": 21090,
+                "Cooldown": 2.2
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 7800,
-                "Cooldown": 1.6
-            }
-        ]
-    },
-    "SatanTrap": {
-        "Type": "Splash",
-        "Image": "rbxassetid://122788365168818",
-        "Rarity": "Secret",
-        "PlacePrice": 7000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 2
-            },
-            {
-                "Price": 10000,
-                "Range": 22,
-                "Damage": 5200,
-                "Cooldown": 1.9
-            },
-            {
-                "Price": 15000,
-                "Range": 25,
-                "Damage": 6400,
-                "Cooldown": 1.8
-            },
-            {
-                "Price": 20000,
-                "Range": 30,
-                "Damage": 7800,
-                "Cooldown": 1.6
+                "Damage": 23000,
+                "Cooldown": 2\
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
