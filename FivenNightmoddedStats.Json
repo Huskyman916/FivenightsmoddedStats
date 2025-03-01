@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Nedd Bear": {
+        "Type": "Single",
+        "Image": "rbxassetid://105500005438279",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 12000,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 14500,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 17000,
+                "Cooldown": 2
+            }
+        ]
+    },
     "SatanTrap": {
         "Type": "Splash",
         "Image": "rbxassetid://122788365168818",
