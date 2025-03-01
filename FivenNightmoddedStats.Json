@@ -38,6 +38,50 @@
             }
         ]
     },
+    "Happy Frog": {
+        "Type": "Damage Boost",
+        "Image": "rbxassetid://108466147786813",
+        "Rarity": "Secret",
+        "PlacePrice": 750,
+        "NoEnemyAttack": true,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.16
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.25
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.35
+            },
+            {
+                "Price": 1400,
+                "Range": 28,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.46
+            }
+        ]
+    },
     "M.X.E.S": {
         "Type": "Cone AOE Pierce + Stun",
         "Image": "rbxassetid://99807714990509",
