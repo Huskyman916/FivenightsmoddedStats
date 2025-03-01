@@ -38,6 +38,120 @@
             }
         ]
     },
+    "SatanTrap": {
+        "Type": "Splash",
+        "Image": "rbxassetid://122788365168818",
+        "Rarity": "Secret",
+        "PlacePrice": 7000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 5200,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 6400,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 7800,
+                "Cooldown": 1.6
+            }
+        ]
+    },
+    "SatanTrap": {
+        "Type": "Splash",
+        "Image": "rbxassetid://122788365168818",
+        "Rarity": "Secret",
+        "PlacePrice": 7000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 5200,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 6400,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 7800,
+                "Cooldown": 1.6
+            }
+        ]
+    },
+    "Pig Patch": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73422639144645",
+        "Rarity": "Rare",
+        "PlacePrice": 3000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 5200,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 6400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 7800,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Mr. Hippo": {
         "Type": "AOE",
         "Image": "rbxassetid://76212751297097",
