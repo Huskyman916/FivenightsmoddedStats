@@ -38,6 +38,44 @@
             }
         ]
     },
+    "Mr. Hippo": {
+        "Type": "AOE",
+        "Image": "rbxassetid://76212751297097",
+        "Rarity": "Epic",
+        "PlacePrice": 2375,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 140,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 6500,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14500,
+                "Range": 13,
+                "Damage": 400,
+                "Cooldown": 0.08
+            },
+            {
+                "Price": 15500,
+                "Range": 14,
+                "Damage": 665,
+                "Cooldown": 0.08
+            }
+        ]
+    },
     "Orville": {
         "Type": "Pierce",
         "Image": "rbxassetid://124807881640550",
