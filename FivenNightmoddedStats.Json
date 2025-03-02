@@ -6895,7 +6895,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://127604914103274",
         "Rarity": "Reject",
-        "PlacePrice": 900,
+        "PlacePrice": 9000,
         "Offset": 0.3,
         "Max": 2,
         "hitboxOffset": {
@@ -6908,25 +6908,25 @@
                 "Price": 0,
                 "Range": 17,
                 "Damage": 8000,
-                "Cooldown": 1.5
+                "Cooldown": 1.2
             },
             {
                 "Price": 600,
                 "Range": 18,
                 "Damage": 9000,
-                "Cooldown": 1.4
+                "Cooldown": 1.1
             },
             {
                 "Price": 800,
                 "Range": 19,
                 "Damage": 10000,
-                "Cooldown": 1.2
+                "Cooldown": 1
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 12500,
-                "Cooldown": 1
+                "Cooldown": 0.8
             }
         ]
     },
@@ -6970,9 +6970,9 @@
         ]
     },
  "Monochrome Freddy": {
-        "Type": "Splash",
+        "Type": "Slash",
         "Image": "rbxassetid://73383241460208",
-        "Rarity": "Reject",
+        "Rarity": "Forgotten",
         "PlacePrice": 6550,
         "Offset": 0,
         "Max": 2,
@@ -10572,55 +10572,6 @@
                 "Range": 35,
                 "Damage": 20000,
                 "Cooldown": 2.5
-            }
-        ]
-    },
-
-    "Uncle Samsonite": {
-        "Type": "You should not have this",
-        "Image": "rbxassetid://",
-        "Rarity": "Rare",
-        "PlacePrice": 24879,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds freezes all enemies on the map for 10 seconds."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "Slow": 0,
-                "SlowTime": 0
-            },
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 1,
-                "Slow": 0,
-                "SlowTime": 0
-            },
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "Slow": 0,
-                "SlowTime": 0
-            },
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "Slow": 0,
-                "SlowTime": 0
             }
         ]
     },
