@@ -6930,7 +6930,45 @@
             }
         ]
     },
- 
+ "Monochrome Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://73383241460208",
+        "Rarity": "Reject",
+        "PlacePrice": 6550,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 7000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 1
+            }
+        ]
+    },
 "Mendo": {
         "Type": "Trap Layer",
         "Image": "rbxassetid://117153987968201",
