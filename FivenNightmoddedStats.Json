@@ -6965,8 +6965,8 @@
     },
 "Tarnished Lolbit": {
         "Type": "Aoe Stun Slow",
-        "Image": "rbxassetid://123600440160662",
-        "Rarity": "DEV",
+        "Image": "rbxassetid://79463713854985",
+        "Rarity": "Apex",
         "PlacePrice": 9000,
         "Offset": 0.819,
         "Max": 3,
@@ -6982,7 +6982,7 @@
                 "Damage": 1000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.07
             },
             {
                 "Price": 5000,
@@ -6990,7 +6990,7 @@
                 "Damage": 1500,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 3.5
+                "SlowTime": 0.07
             },
             {
                 "Price": 6000,
@@ -6998,7 +6998,7 @@
                 "Damage": 1900,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 3.5
+                "SlowTime": 0.05
             },
             {
                 "Price": 7000,
@@ -7006,7 +7006,7 @@
                 "Damage": 2500,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 3.5
+                "SlowTime": 0.05
             }
         ]
     },
