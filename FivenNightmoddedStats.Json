@@ -127,8 +127,8 @@
         "Type": "Splash",
         "Image": "rbxassetid://73422639144645",
         "Rarity": "Rare",
-        "PlacePrice": 3000,
-        "Max": 3,
+        "PlacePrice": 800,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -138,25 +138,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 3000,
+                "Damage": 1458,
                 "Cooldown": 2.7
             },
             {
                 "Price": 10000,
                 "Range": 22,
-                "Damage": 5200,
+                "Damage": 2455,
                 "Cooldown": 2.5
             },
             {
                 "Price": 15000,
                 "Range": 25,
-                "Damage": 6400,
+                "Damage": 3467,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 7800,
+                "Damage": 5643,
                 "Cooldown": 2
             }
         ]
@@ -165,8 +165,8 @@
         "Type": "AOE",
         "Image": "rbxassetid://76212751297097",
         "Rarity": "Epic",
-        "PlacePrice": 2375,
-        "Max": 4,
+        "PlacePrice": 3477,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -203,9 +203,9 @@
         "Type": "Pierce",
         "Image": "rbxassetid://124807881640550",
         "Rarity": "Mythic",
-        "PlacePrice": 2450,
+        "PlacePrice": 1500,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -215,25 +215,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1740,
+                "Damage": 3740,
                 "Cooldown": 2.3
             },
             {
                 "Price": 14000,
                 "Range": 23,
-                "Damage": 2660,
+                "Damage": 4660,
                 "Cooldown": 2
             },
             {
                 "Price": 16000,
                 "Range": 27,
-                "Damage": 3780,
+                "Damage": 5780,
                 "Cooldown": 1.8
             },          
              {
                 "Price": 18000,
                 "Range": 30,
-                "Damage": 4900,
+                "Damage": 6900,
                 "Cooldown": 1.5
             }
         ]
@@ -242,7 +242,7 @@
         "Type": "Damage Boost",
         "Image": "rbxassetid://108466147786813",
         "Rarity": "Secret",
-        "PlacePrice": 750,
+        "PlacePrice": 2350,
         "NoEnemyAttack": true,
         "Offset": 0.7,
         "Max": 3,
