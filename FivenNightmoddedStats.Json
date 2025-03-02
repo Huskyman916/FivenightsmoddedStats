@@ -9032,7 +9032,46 @@
             }
         ]
     },
-
+    "Righty": {
+        "Type": "AOE",
+        "Image": "rbxassetid://73277541864150",
+        "Rarity": "Reject",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 1,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 1100,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Glamrock Lefty": {
         "Type": "Cone AOE Pierce + Song of Doom",
         "Image": "rbxassetid://138553531114538",
