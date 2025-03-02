@@ -13357,6 +13357,54 @@
             }
         ]
     },
+    "Burntrap": {
+        "Type": "Splash + Old",
+        "Image": "rbxassetid://96788780205690",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "My Back Is Broken", "Description": "Just sits there."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 20000,
+                "Cooldown": 2.3,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 22000,
+                "Range": 25,
+                "Damage": 35000,
+                "Cooldown": 2.2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 40000,
+                "Cooldown": 2.1,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 9
+            }
+        ]
+    },
     "Pixel OMC": {
         "Type": "Single",
         "Image": "rbxassetid://78679487650695",
